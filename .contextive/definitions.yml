@@ -8,4 +8,8 @@ contexts:
     - name: Sample
       definition: A sample term used to illustrate it's use in both a common library repo, and dependent repos.
       examples:
+        - Please, may I have a sample?
+    - name: Taste
+      definition: To check on a sample.
+      examples:
         - I really like the taste of this sample! 😍
