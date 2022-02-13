@@ -6,7 +6,7 @@ contexts:
     - "**" # This is the default path glob if the `paths` key is excluded, and will match all files
     terms:
     - name: Sample
-      definition: A sample term used to illustrate it's use in both a common library repo, and dependent repos.
+      definition: A sample term used to illustrate its use in both a common library repo, and dependent repos.
       examples:
         - Please, may I have a sample?
     - name: Taste
